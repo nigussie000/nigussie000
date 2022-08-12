@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nigussie000
+- 👀 I’m highly interested to learn about software engenering.
+- 🌱 I’m currently work on private company.
+- 💞️ I’m looking to collaborate on others.
